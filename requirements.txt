@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+prophet
+shap
+streamlit
+plotly
+sqlalchemy
+jupyter
+matplotlib
+seaborn
+scipy
+ipykernel
