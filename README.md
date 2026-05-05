@@ -2,6 +2,12 @@
 
 End-to-end talep tahmini ve stok optimizasyonu pipeline'ı. 1115 mağaza, 1 milyonun üzerinde satış işlemi.
 
+## 📸 Dashboard
+
+![Header & Satış Trendi](assets/dashboard_1.png)
+![Günlük Analiz & Feature Importance](assets/dashboard_2.png)
+![ROI Hesaplayıcı](assets/dashboard_3.png)
+
 ## 🎯 Proje Özeti
 
 Rossmann eczane zincirinin geçmiş satış verilerinden yola çıkarak:
